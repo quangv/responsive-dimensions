@@ -11,6 +11,11 @@
 |max-width|
 |max-height|
 
+- mini = iPhone portrait (320x480)
+- small = iPhone landscape (480x320)
+- medium = iPad portrait (768x1024)
+- large = iPad landscape (1024x768)
+
 ## Golden Ratio
 
 For box dimensions, try to keep a 3:2 (longer width than height)
